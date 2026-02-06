@@ -5,6 +5,8 @@ O objetivo foi criar um relatório visual e interativo utilizando o **Google Loo
 
 A proposta do trabalho foi transformar dados brutos de vendas em informações claras e fáceis de interpretar.
 
+📄 Relatório completo em PDF disponível neste repositório.
+
 ---
 
 ## 🎯 Objetivo do Projeto

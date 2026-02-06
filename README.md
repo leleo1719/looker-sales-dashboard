@@ -1,6 +1,6 @@
 # 📊 Relatório de Análise de Vendas — Hermann’s Cake and Coffee Shop
 
-Este projeto foi desenvolvido como parte de um **Teste de Performance (TP)** da disciplina **Introdução à Visualização de Dados e SQL**.  
+Projeto prático desenvolvido na disciplina Introdução à Visualização de Dados e SQL, com foco em análise e comunicação de dados. 
 O objetivo foi criar um relatório visual e interativo utilizando o **Google Looker Studio**, a partir de uma base de dados em formato `.xlsx`.
 
 A proposta do trabalho foi transformar dados brutos de vendas em informações claras e fáceis de interpretar.
